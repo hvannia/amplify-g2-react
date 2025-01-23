@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="App">
       <h1>Rate your experience</h1>
-      <StarRating />
+      {/* <StarRating /> */}
     </div>
   );
 }
